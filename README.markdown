@@ -53,6 +53,9 @@ RISK_CONTROL=true # 风控模式 启动后会使用合并转发 只有gocq有实
 - v0.1.6rc1
     - 手残的代价（
 
+- v0.1.6rc2
+    - 支持nb2.beta1， 需要onebot adapter
+
 ## 下一阶段目标
 
 - Yandex? Maybe
